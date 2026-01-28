@@ -97,3 +97,25 @@ remote: Resolving deltas: 100% (1/1), done.
 To https://github.com/Sabine-Ziza/Gym-Git-Exercise-Solutions.git
    55faab3..7aa813d  main -> main
 ```
+## Bundle2
+
+## Exercises1
+```bash
+USER@LAPTOP-L1U2P979 MINGW64 ~/Gym-Git-Exercise-Solutions (main)
+$ git checkout -b ft/bundle-2
+Switched to a new branch 'ft/bundle-2'
+
+USER@LAPTOP-L1U2P979 MINGW64 ~/Gym-Git-Exercise-Solutions (ft/bundle-2)
+$ git add .
+
+USER@LAPTOP-L1U2P979 MINGW64 ~/Gym-Git-Exercise-Solutions (ft/bundle-2)
+$ git push origin ft/bundle-2
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'ft/bundle-2' on GitHub by visiting:
+remote:      https://github.com/Sabine-Ziza/Gym-Git-Exercise-Solutions/pull/new/ft/bundle-2
+remote:
+To https://github.com/Sabine-Ziza/Gym-Git-Exercise-Solutions.git
+ [new branch]      ft/bundle-2 -> ft/bundle-2
+ 
+```
